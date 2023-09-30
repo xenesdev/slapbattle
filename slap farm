@@ -1,5 +1,4 @@
-nofity("not start")
-dadadawdsa
+
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
